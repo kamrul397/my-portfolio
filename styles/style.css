@@ -13,6 +13,8 @@
 /* Nav style */
 nav{
     display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 .nav-titile{
     font-weight: 800;
